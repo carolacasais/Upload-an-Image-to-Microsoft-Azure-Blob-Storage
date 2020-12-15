@@ -1,4 +1,4 @@
-# Upload-an-Image-to-Microsoft-Azure-Blob-Storage
+# Uploading an Image to Microsoft Azure Blob Storage
 
 ![imagen](img1.png)
 
